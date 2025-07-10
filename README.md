@@ -1,11 +1,35 @@
-# Not All Deepfake Detectors Are Created Equal
+<h1 align="center">Evaluating Deepfake Detectors in the Wild</h1>
 
-This repository contains all the code for models used to generate our datasets, the datasets themselves, 
-and the Deepfake Detector models.
+<p align="center">
+  <img src="pics/sumsub_logo.png" alt="Sumsub" height="90"/>
+</p>
 
-## Datasets
+<p align="center">
+  <strong>Viacheslav&nbsp;Pirogov</strong>&nbsp;&middot;&nbsp;
+  <strong>Maksim&nbsp;Artemev</strong><br/>
+  <a href="https://img.shields.io/badge/arXiv-coming--soon-lightgrey.svg">
+    <img src="https://img.shields.io/badge/arXiv-coming--soon-lightgrey.svg" alt="arXiv – coming soon"/>
+  </a>
+  <a href="https://icml.cc/virtual/2025/workshop/39966">
+    <img src="https://img.shields.io/badge/ICML&nbsp;2025&nbsp;Workshop-DataWorld-blueviolet.svg" alt="ICML 2025 – DataWorld Workshop"/>
+  </a>
+</p>
 
-[File with links to all datasets](https://docs.google.com/document/d/17-uU4Y3eaOv2HqtLsjBYJUyY1_s-GunFBP9sF5i-2A4/edit?usp=sharing)
+## 🎮 Play the Game  
+[<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="HuggingFace" height="24"/> Try our Deepfake game](https://huggingface.co/spaces/Sumsub/Deepfake-Game) – 
+can you distinguish between deepfakes and real verifications?
+
+## 📦 Dataset  
+[<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="HuggingFace" height="24"/> Download Swappir](https://huggingface.co/datasets/Sumsub/Swappir) – over 500k high-quality deepfake images.
+
+## 🖼️ ICML Poster  
+<p align="center">
+  <img src="pics/ICML_poster.png" alt="ICML 2025 DataWorld poster" width="560"/>
+</p>
+
+---
+This repository contains all the code for the models that were used to generate our datasets,
+as well as the Deepfake Detector models that were used for evaluation.
 
 ## Generate datasets
 GPEN example
@@ -19,7 +43,7 @@ pip install -r requirements.txt
 ### Download dataset
 ```bash
 cd ~/NADDACE/data/data/lfw
-gdown 1msWS3tVzMCTlK7vMoxTW8RJRmpWtCwSj
+wget https://huggingface.co/datasets/Sumsub/Swappir/resolve/main/lfw_SimSwap.zip
 unzip -q lfw_SimSwap.zip
 ```
 
