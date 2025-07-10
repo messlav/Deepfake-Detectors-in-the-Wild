@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/arXiv-coming--soon-lightgrey.svg" alt="arXiv – coming soon"/>
   </a>
   <a href="https://icml.cc/virtual/2025/workshop/39966">
-    <img src="https://img.shields.io/badge/ICML&nbsp;2025&nbsp;Workshop-DataWorld-blueviolet.svg" alt="ICML 2025 – DataWorld Workshop"/>
+    <img src="https://img.shields.io/badge/ICML&nbsp;2025&nbsp;DataWorld-blueviolet.svg" alt="ICML 2025 – DataWorld Workshop"/>
   </a>
 </p>
 
