@@ -1,7 +1,7 @@
 <h1 align="center">Evaluating Deepfake Detectors in the Wild</h1>
 
 <p align="center">
-  <img src="pics/sumsub_logo.png" alt="Sumsub" height="90"/>
+  <img src="pics/Sumsub_logo.png" alt="Sumsub" height="90"/>
 </p>
 
 <p align="center">
