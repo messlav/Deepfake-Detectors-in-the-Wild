@@ -7,8 +7,8 @@
 <p align="center">
   <strong>Viacheslav&nbsp;Pirogov</strong>&nbsp;&middot;&nbsp;
   <strong>Maksim&nbsp;Artemev</strong><br/>
-  <a href="https://img.shields.io/badge/arXiv-coming--soon-lightgrey.svg">
-    <img src="https://img.shields.io/badge/arXiv-coming--soon-lightgrey.svg" alt="arXiv – coming soon"/>
+  <a href="https://www.arxiv.org/abs/2507.21905">
+    <img src="https://img.shields.io/badge/arXiv-2507.21905-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv:2507.21905"/>
   </a>
   <a href="https://icml.cc/virtual/2025/workshop/39966">
     <img src="https://img.shields.io/badge/ICML&nbsp;2025&nbsp;DataWorld-blueviolet.svg" alt="ICML 2025 – DataWorld Workshop"/>
